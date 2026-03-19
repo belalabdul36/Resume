@@ -12,7 +12,7 @@ Accounting student at York University | Alteryx Advanced Certified | CIBC
 - Delf B1
 
 ## Resume
-📄 [View Resume](https://github.com/belalabdul36/belalabdul36/blob/main/Belal_Resume_Update.pdf)
+📄 [View Resume](https://github.com/belalabdul36/Resume/blob/main/Belal%20Resume%20Update.pdf)
 
 ## Connect
 - LinkedIn: [linkedin.com/in/belalabdul](https://linkedin.com/in/belalabdul)
